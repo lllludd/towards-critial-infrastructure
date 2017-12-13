@@ -1,6 +1,21 @@
 
 # Mesh Network
 
+## Hardware suggestions
+
+Youll need to connect to Rotto a 5AC Radio
+Powerbeam 5AC 420
+Gen2
+http://www.wireless4now.com.au/ubiquiti-5-ghz-powerbeam-ac-300-mm.html?gclid=EAIaIQobChMI_6rO0Y2H2AIVWQYqCh3haAiiEAQYASABEgK_o_D_BwE
+
+If you want to setup an AP, A Sector AM-5G-19
+
+https://www.bhphotovideo.com/bnh/controller/home?A=details&IWB=AU&O=&Q=&c3api=1876%2C50960586482%2C%2C&gclid=EAIaIQobChMItZ6gkI6H2AIV1ye9Ch3XiAIYEAYYAiABEgKKnvD_BwE&is=REG&pcur=ZAUD&sku=1079115
+
+and a Rocket 5AC (Lite will do)
+
+https://www.wireless1.com.au/ubiquiti-nbe-5ac-gen2-5ghz-nanobeam-high-performance-airmax-ac-bridge?gclid=EAIaIQobChMIy4rzz46H2AIVgpS9Ch3mtQz0EAQYASABEgIil_D_BwE
+
 ## WACAN
 
 http://www.wacan.asn.au/
