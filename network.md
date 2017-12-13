@@ -1,5 +1,5 @@
 
-# Mesh Network
+# Network
 
 ## Hardware suggestions
 
