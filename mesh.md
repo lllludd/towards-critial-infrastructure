@@ -1,6 +1,10 @@
 
 # Mesh Network
 
+## WACAN
+
+http://www.wacan.asn.au/
+
 ## WA FreeNet
 
 https://www.wafreenet.org/index.php/Main_Page
@@ -12,6 +16,8 @@ http://www.wafreenet.org/WhatToBuy
 https://www.dd-wrt.com/wiki/index.php/Mesh_Networking_with_OLSR
 
 https://en.wikipedia.org/wiki/Fritz!Box
+
+https://shop.duxtel.com.au/article_info.php?articles_id=63
 
 ## Wireless
 
