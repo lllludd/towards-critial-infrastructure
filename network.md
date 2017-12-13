@@ -22,6 +22,8 @@ http://www.wacan.asn.au/
 
 ## WA FreeNet
 
+http://members.wafreenet.org
+
 https://www.wafreenet.org/index.php/Main_Page
 
 http://www.wafreenet.org/WhatToBuy
