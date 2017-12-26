@@ -38,13 +38,13 @@ Groups have **organisation** when there is:
 ## Current Projects
 
 ### Solar Powered Computing
-    \#Power
-    \#Communications
-    \#ResourceControl
+    #Power
+    #Communications
+    #ResourceControl
 
 ### Inter Household Networking
-    \#Communications
+    #Communications
 
 ### Decision Making
-    \#SharedMap
-    \#SharedPlan
+    #SharedMap
+    #SharedPlan
